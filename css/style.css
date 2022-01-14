@@ -89,7 +89,7 @@ a {
   color: var(--brand-blue);
 }
 
-/*-------hero--------*/
+/*-------Шапка--------*/
 .hero {
   background-color: var(--brand-fon);
 }
@@ -120,7 +120,7 @@ a {
 .hero-btn:active {
   color: var(--brand-black-studio);
 }
-
+/*-------Особенности--------*/
 .title {
   font-weight: 700;
   text-align: center;
